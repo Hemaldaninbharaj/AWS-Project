@@ -2,7 +2,7 @@
 
 In today's data-driven world, the ability to transform raw information into actionable insights is paramount. Data visualization plays a central role in this transformation. In this guide, we delve into the potent combination of AWS QuickSight and Amazon S3, showcasing their ability to turn your data into compelling visual representations. Whether you're an entrepreneur, data analyst, or executive, this guide will empower you to harness the full potential of AWS QuickSight's data visualization capabilities.
 
-This README provides a summary of the steps outlined in the [full article](https://medium.com/@kevinkiruri/unleash-the-power-of-data-visualizing-insights-with-aws-quicksight-757e7c96b4ca), authored by [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/).
+This README provides a summary of the steps outlined in the [full article](https://medium.com/@kevinkiruri/unleash-the-power-of-data-visualizing-insights-with-aws-quicksight-757e7c96b4ca), authored by [https://www.linkedin.com/in/hemaldan-inbaraj//).
 
 ## Prerequisites
 
@@ -33,4 +33,4 @@ For a comprehensive walkthrough, please visit the full blog post: [Unleash the P
 
 ---
 
-*Author: [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/)*
+*Author: [Hemaldaninbharaj](https://www.linkedin.com/in/hemaldan-inbaraj/)*
